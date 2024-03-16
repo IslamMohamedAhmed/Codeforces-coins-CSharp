@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\bin\Debug\net8.0\Coins.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\bin\Debug\net8.0\Coins.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\bin\Debug\net8.0\Coins.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\bin\Debug\net8.0\Coins.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\bin\Debug\net8.0\Coins.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\refint\Coins.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\Coins.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Coins\Coins\obj\Debug\net8.0\ref\Coins.dll
